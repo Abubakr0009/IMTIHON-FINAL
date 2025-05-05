@@ -1,0 +1,89 @@
+{
+  "HeaderTop": {
+    "address": "Toshkent",
+    "aboutUs": "Biz haqimizda",
+    "contact": "Aloqa",
+    "products": "Mahsulotlar"
+  },
+  "HeaderCenter": {
+    "categoryBtn": "Kategoriyalar",
+    "compare": "Taqqoslash",
+    "wishlist": "Istaklar ro'yxati",
+    "cart": "Savatcha",
+    "profile": "Profil",
+    "placeholder" : "Nima qidiryapsiz?"
+  },
+  "moreBtn": "Batafsil",
+  "mostPopularProducts" : "Eng mashhur mahsulotlar",
+  "AboutUs":{
+    "about" : {
+      "title" : "Ashyo haqida",
+      "main" : "Bosh Sahifa",
+      "des" : "Ashyo 2022 yilda Toshkent shahrida tashkil etylgan."
+    },
+    "nasiya":{
+      "title" :  "Muddatli to'lov",
+      "des": "Ashyoda barcha eliktronika maishiy texnikalar uchun qulay onlayn to’lov rejasi"
+    },
+    "paymentMethods" : {
+      "title" : "To‘lov usullari",
+      "des":"Siz uchun qulay usulda to’lang do’konda, Cilik, Payme orqali."
+    },
+    "delivery" : {
+      "title":"Yetkazib berish",
+      "des":"Ashyoda tovarlarni yetkazib berish shartlari."
+    },
+    "garranty" : {
+      "title":"Tavorlarga kafolat",
+      "des":"Ashyo onlayn do’konining kafolati va qaytarilish haqida hamma narsani bilib oling"
+    },
+    "help" : {
+      "title": "Yordam",
+      "des": "Tushumagan narsalaringiz bo’lsa savollaringizni bering."
+    }, 
+    "productsTitle" : "Oxirgi ko’rilgan mahsulotlar",
+    "des1": "Ashyo - bozor narhid maishy texnika va electronics dukonlari qurilmalari. 2 oydan davomid mizhozlarga keng assortimentdagi mahsulotlarni, kafolatli va benson hizmatni taklif etib keladi.",
+    "des2": "Ashyo 2022 yilda Toshkent shahrida tashkil etylgan. Bugungi kunga qadar jami poytaxtda va viloyatlarda 26 that dukon faoliyat ko'rsatmoqda.",
+    "des3":"Siz tovarlarni har kanday kulay usulda sotib olishingiz mumkin: tarmoq dukonlarida yoki website. Maishy uchun texnikasi onlayn b'lib t'lov rezhashi mavjud. Ruyhatdan utish uchun zarur bulgan huzhzhat - bu pasport.",
+    "des4": "Yuridik shahslar uchun pul o'tkazish yo'li bilan, eng muximi - qo'shimcha to'lovlarsiz sotib olish mumkin."
+  },
+  "Footer": {
+    "downloadApp" : "Mobil ilovani yuklab oling",
+    "contact":"Aloqa",
+    "social": "Bizning ijtimoiy tarmoqlarda",
+    "anyQuestion" : "Savolingiz bormi?",
+    "questionPlaceholder" : "O’zingiz qiziqtirgan savollarni bering",
+    "footerLinks": {
+      "menu": "Menyu",
+      "1" :"Ashyo haqida",
+      "2": "Foydalanish shartlari",
+      "3": "Maxfiylik va hafsizlik siyosati",
+      "4": "Mahsulotlarni va tovarlarni qaytarish siyosati",
+      "5": "Biz bilan aloqa"
+    }
+  },
+  "Products" : {
+    "main": "Bosh Sahifa",
+    "products": "Mahsulotlar",
+    "category":"Kategoriya",
+    "pageLimit":"Bitta Sahifada",
+    "all":"Hammasi",
+    "sort":"Tartiblash",
+    "sortByDefault":"Barchasi",
+    "sortByCheapest":"Arzonroq",
+    "sortByExpensive":"Qimmatroq",
+    "sortByRating":"Eng Mashhur",
+    "price": "Narxi [so'm]" ,
+    "from" : "..dan",
+    "to": "..gacha",
+    "brands": "Brandlar",
+    "ram":"Tezkor xotira RAM",
+    "rom": "Doiymi xotira ROM",
+    "batteryMah": "Akkumulyator hajmi",
+    "prev": "Oldingisi",
+    "next": "Keyingisi",
+    "productsTitle" : "Oxirgi ko’rgan mahsulotlar",
+    "filter": "Saralash",
+    "SingleProduct":"Yagona mahsulot"
+  }
+}

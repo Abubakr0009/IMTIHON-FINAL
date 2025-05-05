@@ -1,0 +1,108 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+/* 
+
+[data-theme="light"] {
+  --background-color: #ffffff;
+  --surface-color: #f1f5f9;
+  --primary-color: #134E9B;
+  --primary-text-color: #1E293B;
+  --secondary-text-color: #64748B;
+}
+
+[data-theme="dark"] {
+  --background-color: #0F172A;
+  --surface-color: #1E293B;
+  --primary-color: #3B82F6;
+  --primary-text-color: #F8FAFC;
+  --secondary-text-color: #94A3B8;
+} 
+
+*/
+
+@font-face {
+  font-display: swap; 
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  src: url('../../assets/fonts/roboto-v47-latin-100italic.woff2') format('woff2'); 
+}
+@font-face {
+  font-display: swap; 
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../../assets/fonts/roboto-v47-latin-300.woff2') format('woff2'); 
+}
+@font-face {
+  font-display: swap; 
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../../assets/fonts/roboto-v47-latin-regular.woff2') format('woff2'); 
+}
+@font-face {
+  font-display: swap; 
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../../assets/fonts/roboto-v47-latin-500.woff2') format('woff2'); 
+}
+@font-face {
+  font-display: swap; 
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../../assets/fonts/roboto-v47-latin-600.woff2') format('woff2'); 
+}
+@font-face {
+  font-display: swap; 
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../../assets/fonts/roboto-v47-latin-700.woff2') format('woff2'); 
+}
+@font-face {
+  font-display: swap; 
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 800;
+  src: url('../../assets/fonts/roboto-v47-latin-800.woff2') format('woff2'); 
+}
+@font-face {
+  font-display: swap; 
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../../assets/fonts/roboto-v47-latin-900.woff2') format('woff2'); 
+}
+*{
+  box-sizing: border-box;
+}
+.containers{
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 10px;
+}
+
+.loading {
+  background: linear-gradient(80deg, #d0d3d6 25%, #ffffff 50%, #d0d3d6 75%);
+  background-size: 200% 100%;
+  animation: loading 2s infinite linear;
+  border-radius: 6px;
+}
+
+@keyframes loading {
+  0% {
+    background-position: -200% 0;
+  }
+
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+body {
+  overflow-x: hidden;
+}     /* bu yerda overflow yozilgani sababi oddiy ekranda scroll chiqib qolgani uchun responsive keyin qilganim uchun shu chiqib qolgan telefon farmatda qilingan */
